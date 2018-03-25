@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">nuhack91</string>
+
+    <array name="Buildings">
+        <item>Select Building</item>
+        <item>Thornton</item>
+        <item>Rice</item>
+        <item>Computer Science</item>
+
+    </array>
+
+</resources>
